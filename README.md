@@ -1,1 +1,1 @@
-# Generative-Adversarial-Networks on "MNIST Digits Classification Dataset."
+# Generative-Adversarial-Networks for generating "MNIST Handwritten Digits."
